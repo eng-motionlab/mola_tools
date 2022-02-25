@@ -1,0 +1,42 @@
+name: molannotate
+channels:
+  - spyder-ide
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6
+  - spyder
+  - nodejs
+  - opencv
+  - pillow
+  - ipython
+  - pip
+  - matplotlib
+  - numpy
+  - tqdm
+  - pytorch>=1.8.1
+  - torchvision
+  - torchaudio
+  - cudatoolkit>=11.0
+  - scikit-image
+  - tensorboard>=2.4.1
+  - cython
+  - jupyterlab
+  - pandas
+  - lxml
+  - numba
+  - scipy
+  - progress
+  - lap
+  - openpyxl
+  - tensorboardX
+  - seaborn>=0.11.0
+  - pip:
+    - wandb
+    - pycocotools>=2.0
+    - cython-bbox
+    - motmetrics
+    - yacs
+    - norfair[metrics,video]
+prefix: C:\Tools\miniconda3\envs\violent_action

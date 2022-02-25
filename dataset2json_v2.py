@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # Create INCAR and INVICON MOLA JSON
-# version: 1
+# version: 2
 # 
 # info:
 # - Create standard MOLA JSON
