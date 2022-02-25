@@ -1,4 +1,4 @@
-# mola_tools
+# MOLAnnotate
 MOLA toolkit repository 
 
-To be released!
+In release
