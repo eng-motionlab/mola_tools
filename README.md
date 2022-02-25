@@ -1,5 +1,5 @@
 # MOLAnnotate
-MOLA toolkit repository 
+MOLA ANNOTATE TOOLKIT: A FREE- AND OPEN SOURCE DATASET JSON ANNOTATION TOOL
 
 ![Alt Text](https://github.com/eng-motionlab/molannotate/blob/main/figures/annotation_pipeline.png)
 
