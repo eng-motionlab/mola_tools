@@ -1,7 +1,7 @@
 # MOLAnnotate
 MOLA toolkit repository 
 
-![Alt Text](https://github.com/eng-motionlab/molannotate/blob/master/figures/annotation_pipeline.png)
+![Alt Text](https://github.com/eng-motionlab/molannotate/blob/main/figures/annotation_pipeline.png)
 
 IN RELEASE!!!
 It will be constantly update in the next weeks, but is ready to be used as is!
