@@ -5,12 +5,17 @@ MOLA ANNOTATE TOOLKIT: A FREE- AND OPEN SOURCE DATASET JSON ANNOTATION TOOL
 
 
 # Folder structure
-"export2algorithm": Scripts for exporting datasets to algorithms using the JSON Mola format. Currently available: YOLOv5 format,mmaction2 framework format,fairmot format
+
+#### "export2algorithm": Scripts for exporting datasets to algorithms using the JSON Mola format. Currently available: YOLOv5 format,mmaction2 framework format,fairmot format
 
 "batch": Find batchs to start jupyter
+
 "examples": examples of dataset and jsons used in nootebooks
+
 "experimental": new scripts that are in experimentation and testing
+
 "figures": figures with examples
+
 "matlab": scripts to convert matlab labels
 
 
