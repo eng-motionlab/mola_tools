@@ -7,10 +7,10 @@ echo Hello! This is a batch to start violent_action jupyter.
 
 
 REM ACTIVATE ENV ********
-call C:\Tools\miniconda3\condabin\conda.bat activate violent_action
+call conda.bat activate violent_action
 
-REM change dir to start pyff *****
-cd "G:\My Drive\projects\bosch_P19\research\python_ws\molannotate"
+REM change dir to start in root env *****
+cd ..
 
 REM Start jupyter lab *******
 call jupyter lab
