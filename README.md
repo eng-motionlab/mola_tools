@@ -32,7 +32,6 @@ MOLA ANNOTATE TOOLKIT: A FREE- AND OPEN SOURCE DATASET JSON ANNOTATION TOOL
 If you use molannotate and mola dataset for anything we humbly ask you to cite us:
 ```bibtex
 @Article{s23125610,
-AUTHOR = {Rodrigues, Nelson R. P. and da Costa, Nuno M. C. and Melo, César and Abbasi, Ali and Fonseca, Jaime C. and Cardoso, Paulo and Borges, João},
 TITLE = {Fusion Object Detection and Action Recognition to Predict Violent Action},
 JOURNAL = {Sensors},
 VOLUME = {23},
@@ -40,6 +39,7 @@ YEAR = {2023},
 NUMBER = {12},
 ARTICLE-NUMBER = {5610},
 URL = {https://www.mdpi.com/1424-8220/23/12/5610},
+AUTHOR = {Rodrigues, Nelson R. P. and da Costa, Nuno M. C. and Melo, César and Abbasi, Ali and Fonseca, Jaime C. and Cardoso, Paulo and Borges, João},
 PubMedID = {37420776},
 ISSN = {1424-8220},
 ABSTRACT = {In the context of Shared Autonomous Vehicles, the need to monitor the environment inside the car will be crucial. This article focuses on the application of deep learning algorithms to present a fusion monitoring solution which was three different algorithms: a violent action detection system, which recognizes violent behaviors between passengers, a violent object detection system, and a lost items detection system. Public datasets were used for object detection algorithms (COCO and TAO) to train state-of-the-art algorithms such as YOLOv5. For violent action detection, the MoLa InCar dataset was used to train on state-of-the-art algorithms such as I3D, R(2+1)D, SlowFast, TSN, and TSM. Finally, an embedded automotive solution was used to demonstrate that both methods are running in real-time.},
