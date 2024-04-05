@@ -24,8 +24,8 @@ MOLA ANNOTATE TOOLKIT: A FREE- AND OPEN SOURCE DATASET JSON ANNOTATION TOOL
 
 # MOLA DATASET
 
-- [**github mola_incar_rgb**](https://github.com/eng-motionlab/mola_incar)
-- [**Full dataset Repositorium**](https://doi.org/10.34622/datarepositorium/1S8QVP)
+- [**github mola incar rgb**](https://github.com/eng-motionlab/mola_incar)
+- [**Full dataset Repositorium with all modalities**](https://doi.org/10.34622/datarepositorium/1S8QVP)
 
 
 # Citations
