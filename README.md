@@ -28,7 +28,7 @@ MOLA ANNOTATE TOOLKIT: A FREE- AND OPEN SOURCE DATASET JSON ANNOTATION TOOL
 - [**Full dataset Repositorium**](https://doi.org/10.34622/datarepositorium/1S8QVP)
 
 
-## Citations
+# Citations
 If you use molannotate and mola dataset for anything we humbly ask you to cite us:
 ```bibtex
 @Article{s23125610,
